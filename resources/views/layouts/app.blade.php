@@ -19,7 +19,7 @@
 
     <footer>
         <div class="p-3 text-center text-white bg-dark">
-            © 2023 Copyright: Kamran
+            © 2023 Copyright: Mohammed Kamran Ali | 220181437@aston.ac.uk
         </div>
     </footer>
 </body>
